@@ -1,3 +1,4 @@
 %demo
 
-water = good
+water = good!
+loyd = water 
