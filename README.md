@@ -1,0 +1,3 @@
+%demo
+
+water = good
